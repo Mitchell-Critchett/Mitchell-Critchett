@@ -1,5 +1,3 @@
-<img src="https://Mitchell-Critchett" alt="Snake Cypherpunk">
-
 ## Hi there 👋
 
 <!--
