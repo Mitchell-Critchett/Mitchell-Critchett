@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Cypherpunk Snake" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
