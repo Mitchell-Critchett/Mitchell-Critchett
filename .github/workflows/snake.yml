@@ -19,9 +19,7 @@ jobs:
         with:
           github_user_name: Mitchell-Critchett
           outputs: |
-            dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-ocean.svg?palette=ocean
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
